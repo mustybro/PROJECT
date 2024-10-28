@@ -412,6 +412,52 @@ ul li a:hover {
   font-weight: 600;
   color: #333333;
 }
+.tour-section {
+  background-color: #0d1b2a;
+  color: white;
+  padding: 50px 0;
+}
+
+.tour-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.tour-section p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.tour-section  {
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  height: auto;
+}
+.social-icons {
+  position: fixed;
+  top: 50%;
+  left: 0;
+
+}
+
+.social-icons a {
+  display: block;
+  margin: 10px 0;
+  color: #fff;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+}
+
+.whatsapp-chat {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
 
 .logo{
     justify-content: end;
