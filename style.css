@@ -1456,6 +1456,7 @@ footer {
 }
 
 .social-icons a {
+  position: fixed;
   display: block;
   margin: 10px 0;
   color: #fff;
