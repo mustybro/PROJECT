@@ -24,7 +24,7 @@ nav {
   gap: 500px;
   align-items: center;
   background-color: #fff;
-  /* padding: 15px 30px; */
+ 
 }
 
 nav ul {
@@ -32,33 +32,33 @@ nav ul {
 }
 
 .dropdown {
-  display: none; /* Hide the dropdown by default */
-  position: absolute; /* Position it absolutely relative to the parent li */
-  background-color: #ffffff95; /* Background color of the dropdown */
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
-  padding: 10px 0; /* Spacing inside the dropdown */
-  list-style: none; /* Remove bullets */
-  z-index: 1000; /* Ensure it appears above other elements */
+  display: none; 
+  position: absolute; 
+  background-color: #ffffff95;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+  padding: 10px 0; 
+  list-style: none; 
+  z-index: 1000; 
 }
 
 li:hover .dropdown {
-  display: block; /* Show the dropdown on hover of the parent li */
+  display: block; 
 }
 
 .dropdown li {
-  margin: 0; /* Remove margin for dropdown items */
+  margin: 0; 
 }
 
 .dropdown li a {
-  display: block; /* Make the links block-level for better click area */
-  padding: 10px 20px; /* Padding for dropdown items */
-  color: #333333; /* Same color for dropdown links */
-  text-decoration: none; /* Remove underline */
+  display: block; 
+  padding: 10px 20px; 
+  color: #333333; 
+  text-decoration: none; 
 }
 
 .dropdown li a:hover {
-  background-color: #f0f0f061; /* Change background on hover */
-  color: #6178dd; /* Change text color on hover */
+  background-color: #f0f0f061; 
+  color: #6178dd; 
 }
 
 .logo img {
@@ -87,9 +87,9 @@ ul li a:hover {
 }
 
 .hamburger {
-  display: none; /* Initially hide the hamburger */
-  font-size: 30px; /* Size of the hamburger icon */
-  cursor: pointer; /* Change cursor to pointer */
+  display: none; 
+  font-size: 50px; 
+  cursor: pointer; 
 }
 
 .broadc {
@@ -393,7 +393,7 @@ ul li a:hover {
   justify-content: center;
   align-items: center;
   gap: 60px;
-  flex-wrap: wrap; /* Allows wrapping for smaller screens */
+  flex-wrap: wrap; 
 }
 
 .alumni {
