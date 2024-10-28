@@ -1426,3 +1426,69 @@ footer {
   }
 
 }
+.tour-section {
+  background-color: #0d1b2a;
+  color: white;
+  padding: 50px 0;
+}
+
+.tour-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.tour-section p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.tour-section  {
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  height: auto;
+}
+.social-icons {
+  position: fixed;
+  top: 50%;
+  left: 0;
+
+}
+
+.social-icons a {
+  display: block;
+  margin: 10px 0;
+  color: #fff;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+}
+
+.whatsapp-chat {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  border: 1px solid white;
+  background-color: white;
+  color: green;
+}
+.no5{
+  width: 40%;
+  background-color: #090326 !important;
+}
+.no4{
+  width: 30%;
+  border: 1px solid ;
+  height: 30%;
+  padding: 30px;
+}
+.lia8{
+  color: #D38815;
+  border-bottom: #D38815;
+}
+a{
+  color: #D38815;
+
+}
